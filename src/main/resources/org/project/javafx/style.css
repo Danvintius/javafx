@@ -1,0 +1,16 @@
+.button {
+    -fx-background-color: green;
+    -fx-font-size: 24px;
+    -fx-color: yellow;
+    -fx-color-label-visible: yellow;
+    -fx-border-style: solid;
+}
+
+#welcomeText {
+    -fx-color: blue;
+    -fx-font-size: 36px;
+}
+
+#label1 {
+    -fx-border-style: solid;
+}
